@@ -1,2 +1,2 @@
 # samsungnote8hackathon
-Dor Samsung Galaxy Note8 hackathon
+For Samsung Galaxy Note8 hackathon
